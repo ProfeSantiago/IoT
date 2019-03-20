@@ -1,0 +1,4 @@
+/Users/santiagoRP1979/OneDrive/DeveLearning/Arduino (Internet Of Things)/Consola C# .Net Core/ConsolaSerial/ConsolaSerial/obj/Debug/netcoreapp2.1/ConsolaSerial.csprojAssemblyReference.cache
+/Users/santiagoRP1979/OneDrive/DeveLearning/Arduino (Internet Of Things)/Consola C# .Net Core/ConsolaSerial/ConsolaSerial/obj/Debug/netcoreapp2.1/ConsolaSerial.csproj.CoreCompileInputs.cache
+/Users/santiagoRP1979/OneDrive/DeveLearning/Arduino (Internet Of Things)/Consola C# .Net Core/ConsolaSerial/ConsolaSerial/obj/Debug/netcoreapp2.1/ConsolaSerial.AssemblyInfoInputs.cache
+/Users/santiagoRP1979/OneDrive/DeveLearning/Arduino (Internet Of Things)/Consola C# .Net Core/ConsolaSerial/ConsolaSerial/obj/Debug/netcoreapp2.1/ConsolaSerial.AssemblyInfo.cs

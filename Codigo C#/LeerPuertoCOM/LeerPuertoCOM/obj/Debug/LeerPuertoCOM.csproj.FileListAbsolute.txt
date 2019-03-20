@@ -1,0 +1,19 @@
+C:\Users\srodriguez\OneDrive\DeveLearning\Sistemas Empotrados\Codigo C#\LeerPuertoCOM\LeerPuertoCOM\bin\Debug\LeerPuertoCOM.exe.config
+C:\Users\srodriguez\OneDrive\DeveLearning\Sistemas Empotrados\Codigo C#\LeerPuertoCOM\LeerPuertoCOM\bin\Debug\LeerPuertoCOM.exe
+C:\Users\srodriguez\OneDrive\DeveLearning\Sistemas Empotrados\Codigo C#\LeerPuertoCOM\LeerPuertoCOM\bin\Debug\LeerPuertoCOM.pdb
+C:\Users\srodriguez\OneDrive\DeveLearning\Sistemas Empotrados\Codigo C#\LeerPuertoCOM\LeerPuertoCOM\obj\Debug\LeerPuertoCOM.csprojResolveAssemblyReference.cache
+C:\Users\srodriguez\OneDrive\DeveLearning\Sistemas Empotrados\Codigo C#\LeerPuertoCOM\LeerPuertoCOM\obj\Debug\LeerPuertoCOM.exe
+C:\Users\srodriguez\OneDrive\DeveLearning\Sistemas Empotrados\Codigo C#\LeerPuertoCOM\LeerPuertoCOM\obj\Debug\LeerPuertoCOM.pdb
+C:\Users\santi.DESKTOP-MS7SL7L\OneDrive\DeveLearning\Arduino (Internet Of Things)\Codigo C#\LeerPuertoCOM\LeerPuertoCOM\bin\Debug\LeerPuertoCOM.exe.config
+C:\Users\santi.DESKTOP-MS7SL7L\OneDrive\DeveLearning\Arduino (Internet Of Things)\Codigo C#\LeerPuertoCOM\LeerPuertoCOM\obj\Debug\LeerPuertoCOM.exe
+C:\Users\santi.DESKTOP-MS7SL7L\OneDrive\DeveLearning\Arduino (Internet Of Things)\Codigo C#\LeerPuertoCOM\LeerPuertoCOM\obj\Debug\LeerPuertoCOM.pdb
+C:\Users\santi.DESKTOP-MS7SL7L\OneDrive\DeveLearning\Arduino (Internet Of Things)\Codigo C#\LeerPuertoCOM\LeerPuertoCOM\bin\Debug\LeerPuertoCOM.exe
+C:\Users\santi.DESKTOP-MS7SL7L\OneDrive\DeveLearning\Arduino (Internet Of Things)\Codigo C#\LeerPuertoCOM\LeerPuertoCOM\bin\Debug\LeerPuertoCOM.pdb
+C:\Users\santi.DESKTOP-MS7SL7L\OneDrive\DeveLearning\Arduino (Internet Of Things)\Codigo C#\LeerPuertoCOM\LeerPuertoCOM\obj\Debug\LeerPuertoCOM.csprojResolveAssemblyReference.cache
+C:\Users\Santiago\OneDrive\DeveLearning\Arduino (Internet Of Things)\Codigo C#\LeerPuertoCOM\LeerPuertoCOM\bin\Debug\LeerPuertoCOM.exe.config
+C:\Users\Santiago\OneDrive\DeveLearning\Arduino (Internet Of Things)\Codigo C#\LeerPuertoCOM\LeerPuertoCOM\bin\Debug\LeerPuertoCOM.exe
+C:\Users\Santiago\OneDrive\DeveLearning\Arduino (Internet Of Things)\Codigo C#\LeerPuertoCOM\LeerPuertoCOM\bin\Debug\LeerPuertoCOM.pdb
+C:\Users\Santiago\OneDrive\DeveLearning\Arduino (Internet Of Things)\Codigo C#\LeerPuertoCOM\LeerPuertoCOM\obj\Debug\LeerPuertoCOM.csprojResolveAssemblyReference.cache
+C:\Users\Santiago\OneDrive\DeveLearning\Arduino (Internet Of Things)\Codigo C#\LeerPuertoCOM\LeerPuertoCOM\obj\Debug\LeerPuertoCOM.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\OneDrive\DeveLearning\Arduino (Internet Of Things)\Codigo C#\LeerPuertoCOM\LeerPuertoCOM\obj\Debug\LeerPuertoCOM.exe
+C:\Users\Santiago\OneDrive\DeveLearning\Arduino (Internet Of Things)\Codigo C#\LeerPuertoCOM\LeerPuertoCOM\obj\Debug\LeerPuertoCOM.pdb

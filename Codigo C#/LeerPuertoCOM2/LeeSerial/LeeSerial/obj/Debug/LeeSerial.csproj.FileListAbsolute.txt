@@ -1,0 +1,7 @@
+C:\Users\Santiago\AppData\Local\Temporary Projects\LeeSerial\bin\Debug\LeeSerial.exe.config
+C:\Users\Santiago\AppData\Local\Temporary Projects\LeeSerial\bin\Debug\LeeSerial.exe
+C:\Users\Santiago\AppData\Local\Temporary Projects\LeeSerial\bin\Debug\LeeSerial.pdb
+C:\Users\Santiago\AppData\Local\Temporary Projects\LeeSerial\obj\Debug\LeeSerial.csprojResolveAssemblyReference.cache
+C:\Users\Santiago\AppData\Local\Temporary Projects\LeeSerial\obj\Debug\LeeSerial.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\AppData\Local\Temporary Projects\LeeSerial\obj\Debug\LeeSerial.exe
+C:\Users\Santiago\AppData\Local\Temporary Projects\LeeSerial\obj\Debug\LeeSerial.pdb
